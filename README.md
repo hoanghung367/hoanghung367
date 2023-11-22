@@ -1,16 +1,35 @@
-### Hi there 👋
+### <p align="center">Hi, I'm @hoanghung367 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></p>
 
-<!--
-**hoanghung367/hoanghung367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+	<img src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=790b7611e190ee7817d273afb62cfb80fd0e0f49e7b563bd&rid=giphy.gif&ct=g" height="250">
+</div>
 
-Here are some ideas to get you started:
+<h2>Overview</h2>
+<img align="left" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoanghung367&count_private=true&show_icons=true&theme=tokyonight" alt="hoanghung's github stats" /> 
+<img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghung367&layout=compact&theme=aura&langs_count=9" />
+<img height="210" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p>Programming Languages 
+  <a align="center" href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=javascript> 
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+	<a align="center" href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=javascript> 
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=typescript> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a></>
+<p>Frontend Development 
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=reactjs> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=html> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=css> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+</p>
+<p>Backend Development
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=nodejs> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+	<a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=php> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+  <a href= https://github.com/hoanghung367?tab=repositories&q=&type=&language=laravel> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
+</p>
+<hr>
+<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hieunm-05624/hieunm-05624/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hieunm-05624/hieunm-05624/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/hieunm-05624/hieunm-05624/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" style="visibility:visible;max-width:100%;">
+</picture></themed-picture>
+<hr>
