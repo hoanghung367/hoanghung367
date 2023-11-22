@@ -1,8 +1,5 @@
 ### <p align="center">Hi, I'm @hoanghung367 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></p>
 
-<div align='center'>
-	<img src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=790b7611e190ee7817d273afb62cfb80fd0e0f49e7b563bd&rid=giphy.gif&ct=g" height="250">
-</div>
 
 <h2>Overview</h2>
 <img align="left" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoanghung367&count_private=true&show_icons=true&theme=tokyonight" alt="hoanghung's github stats" /> 
